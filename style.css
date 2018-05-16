@@ -1,0 +1,51 @@
+body {
+    width: 100%;
+    margin: 0px;
+}
+
+header h1, h2, h3 {
+    width: 1000px;
+    margin: 0px;
+    margin: auto;
+}
+
+header img {
+    width: 100%;
+    opacity: 0.2;
+    position: fixed;
+}
+
+header ul {
+    list-style: none;
+    width: 1000px;
+    margin: auto;
+    background-color: black;
+    padding: 0px;
+    height: 50px;
+}
+
+header li {
+    display: inline-block;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    padding-bottom: 17px;
+}
+
+header a:hover {
+    background-color: white;
+    color: black;
+}
+
+section {
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+    position: relative;
+    opacity: 0.5;
+}
+
